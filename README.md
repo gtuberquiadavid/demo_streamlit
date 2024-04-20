@@ -6,3 +6,6 @@ Esta aplicacion permite mostrar el resultados del analisis de datos de vehiculos
 2. Grafico de dispercion el cual muestra como es el comportamiento del odometro vs el precio de los vehiculos, mostrando que la tendencia es inversamente proporcional lo cual entre mas es el valor del odometro menos es el precio del vehiculo, se presentan unos datos puntuales dispersos pero no son relevantes por lo poco frecuente que se presenta.
 
 Con base a esta informacion el usuario que acceda podra establecer un mejor analisis de esta informacion de acuerdo a los datos historicos presentados.
+
+Esta actualizacion se podra ver en el siguiente link. Donde podran observar esta información.
+https://demo-streamlit-xerh.onrender.com/
